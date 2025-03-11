@@ -1,6 +1,7 @@
 # Spotify Tracks Recommendation System
 
 This project implements a comprehensive recommendation system for Spotify tracks based on a dataset of 114k tracks with audio features. The system provides multiple recommendation approaches and interfaces.
+<img width="922" alt="image" src="https://github.com/user-attachments/assets/68b6cfd2-03d9-4311-a9b2-e64b797feaa4" />
 
 ## Dataset Description
 
@@ -149,7 +150,7 @@ The web app (`src/web_app.py`) provides a modern, responsive user interface:
 
 ## Exploratory Data Analysis
 
-The project includes a comprehensive Jupyter notebook (`notebooks/Spotify_Tracks_EDA.ipynb`) for exploring:
+The project includes a comprehensive notebook (`notebooks/Spotify_Tracks_EDA.py`) for exploring:
 - Genre distribution
 - Popularity patterns
 - Audio feature distributions and correlations
