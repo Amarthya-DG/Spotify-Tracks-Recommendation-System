@@ -1,7 +1,10 @@
 # Spotify Tracks Recommendation System
 
 This project implements a comprehensive recommendation system for Spotify tracks based on a dataset of 114k tracks with audio features. The system provides multiple recommendation approaches and interfaces.
-<img width="922" alt="image" src="https://github.com/user-attachments/assets/68b6cfd2-03d9-4311-a9b2-e64b797feaa4" />
+<img width="895" alt="image" src="https://github.com/user-attachments/assets/9b206192-01b8-44f5-8301-c496fefe0466" />
+<img width="866" alt="image" src="https://github.com/user-attachments/assets/55755b68-a388-4883-b625-921a9a500cd1" />
+
+
 
 ## Dataset Description
 
